@@ -1,0 +1,11 @@
+{
+  "siteName": "SpaceARM AI",
+  "siteSubtitle": "Artificial Reasoning Machine",
+  "creatorName": "อภิวิชญ์ เนตะเทศ",
+  "themeColor": "#00f5ff",
+  "accentColor": "#7b2fff",
+  "bgColor": "#020408",
+  "bgImage": "",
+  "logoText": "SA",
+  "welcomeText": "ขับเคลื่อนโดย Groq × LLaMA 3.3 70B"
+}

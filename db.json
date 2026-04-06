@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "admin-001",
+      "username": "admin",
+      "email": "yousabhjklj@gmail.com",
+      "password": "30934f01be4051a25292e11729ddb8c36ce4d96b102d82e33dff41ce6612a998",
+      "role": "admin",
+      "banned": false,
+      "createdAt": "2026-04-05T04:48:01.071Z",
+      "chatHistory": []
+    }
+  ]
+}
